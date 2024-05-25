@@ -45,8 +45,8 @@
 /* responsive laptop & larger tablet */
 @media only screen and (min-width: 769px) and (max-width: 1279px) {
     .container{
-        grid-template-columns: 150px 150px 150px 150px 150px;
-        grid-template-rows: repeat(6, 150px);
+        grid-template-columns: 140px 140px 140px 140px 140px;
+        grid-template-rows: repeat(6, 140px);
         width: 100%;
         padding: 20px;
         box-sizing: border-box;
